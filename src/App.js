@@ -3,8 +3,6 @@ import AddBackgroundColor from './Components/AddBackgroundColor';
 import ChangeColor from './Components/ChangeColor';
 import PureCompo from './Components/PureCompo';
 import NormalCompo from './Components/NormalCompo';
-import "../src/Components/Style.css"
-
 
 function App() {
   return (
